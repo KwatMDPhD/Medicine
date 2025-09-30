@@ -16,7 +16,7 @@ Sex.
 
 Date of birth.
 
-## Chief complain
+## Chief complaint
 
 ## History of present illness
 
@@ -30,25 +30,25 @@ Quality (patient's words).
 
 Radiation.
 
-0-10.
+Pain scale (0-10).
 
 Associations.
 
 Alleviations.
 
-Aggrevations.
+Aggravations.
 
 Progress.
 
 ## Medical history
 
-Events (time).
+Medical events (time).
 
 Allergens (reaction).
 
 ## Intake
 
-Medications (time, amount, and adrerence).
+Medications (time, amount, and adherence).
 
 Supplements (time and amount).
 
@@ -88,11 +88,11 @@ People.
 
 Pets.
 
-##
+## Social history (sensitive)
 
 Alcohol (time and amount).
 
-Tabacco (time and amount).
+Tobacco (time and amount).
 
 Recreational substances (time and amount).
 

@@ -1,27 +1,27 @@
 ## Summary
 
-NAME is a AGE SEX, with a history of MEDICAL_HISTORY, FAMILY_MEDICAL_HISTORY, and SOCIAL_HISTORY, presenting with DURATION of CHIEF_COMPLAINT, with FINDING_1, FINDING_2, and FINDING_3.
+NAME, an AGE-year-old SEX, has MEDICAL_HISTORY, FAMILY_MEDICAL_HISTORY, and SOCIAL_HISTORY.
+
+They report CHIEF_COMPLAINT for DURATION, with FINDING_1, FINDING_2, and FINDING_3.
 
 ## Assessment
 
-The findings support the diagnosis of DIAGNOSIS_1 because REASON_1.
+CONDITION_1 is likely due to REASON_1.
 
-DIAGNOSIS_2 is possible because REASON_2.
+CONDITION_2 may occur because of REASON_2.
 
-DIAGNOSIS_3 is possible because REASON_3.
+CONDITION_3 is possible due to REASON_3.
 
-DIAGNOSIS_4 is possible because REASON_4.
+CONDITION_4 is possible due to REASON_4.
 
-## Problem
+## Problems
 
-(Every problem leads to a specific action.)
+GROUP_1 with PROBLEM_1, PROBLEM_2, and PROBLEM_3 (each group requires a specific action).
 
-GROUP_1 with PROBLEM_1, PROBLEM_2, and PROBLEM_3.
+MEDICAL_EVENTS.
 
-HISTORY.
+ALLERGENS.
 
-ALLERGY.
-
-SOCIAL_BEHAVIOR.
+SOCIAL_HISTORY.
 
 SOCIOECONOMIC_STATUS.
